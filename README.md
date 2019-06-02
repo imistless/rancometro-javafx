@@ -1,2 +1,2 @@
 # rancometro-javafx
-a program made to practice javaFX applications 
+a funny program made to practice javaFX applications 
